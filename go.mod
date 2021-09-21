@@ -1,4 +1,4 @@
-module github.com/dubek/rabbitmq-dump-queue
+module github.com/nsc5171/rabbitmq-dump-queue
 
 go 1.13
 
